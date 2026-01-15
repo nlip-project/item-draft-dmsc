@@ -1,6 +1,6 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Natural Language Interaction for Dynamic Multi-Agent Secure Collaboration"
+abbrev: "NLIP-DMSC"
 category: info
 
 docname: draft-natural-language-multiagent-latest
@@ -8,14 +8,14 @@ submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
-v: 3
+v: 0
 # area: AREA
 # workgroup: WG Working Group
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
-venue:
+ - dynamic systems
+ - multi-agent systems
+ - natural language 
+venue: 
 #  group: WG
 #  type: Working Group
 #  mail: WG@example.com
@@ -27,7 +27,7 @@ author:
  -
     fullname: "Dinesh Verma"
     organization: Your Organization Here
-    email: "dineshverma@users.noreply.github.com"
+    email: "dverma@us.ibm.com"
 
 normative:
 
